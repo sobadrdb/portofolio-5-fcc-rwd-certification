@@ -182,4 +182,5 @@ footer {
   padding: 1rem 0.5rem;
   background: #222222;
 }
+footer a { background: whitesmoke; color: #222222; }
 
