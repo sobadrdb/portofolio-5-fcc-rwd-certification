@@ -40,6 +40,7 @@ a {
   max-width: 50px;
 }
 #navbar i {
+  display: block;
   cursor: pointer;
   color: whitesmoke;
   font-size: 2rem;
